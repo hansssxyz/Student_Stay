@@ -1,3 +1,5 @@
+(Note: Codes are here for Demonstration of Functionalities only)
+
 🏡 About StudentStay
 
 At StudentStay, we're dedicated to transforming the student housing experience. We understand the challenges of finding short-term rentals and subleases as a student. That's why we've created a platform to simplify and secure the process, ensuring you find your ideal space away from home with ease.
