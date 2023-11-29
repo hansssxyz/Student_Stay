@@ -1,70 +1,23 @@
-# Getting Started with Create React App
+Welcome to a Quick Introductino to StudentStay!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Making Student Housing Simple and Stress-Free
+🏡 About StudentStay
+At StudentStay, we're dedicated to transforming the student housing experience. We understand the challenges of finding short-term rentals and subleases as a student. That's why we've created a platform to simplify and secure the process, ensuring you find your ideal space away from home with ease.
 
-## Available Scripts
+🌟 Our Mission
+Our goal is to offer a streamlined, secure platform for students to effortlessly find the perfect housing for various needs - be it attending conferences, studying abroad, or exploring new cities. We're here to take the hassle out of housing, so you can focus on your adventures.
 
-In the project directory, you can run:
+🚀 Why Choose StudentStay?
+Student-Centric: Exclusively for students, by students. Our platform guarantees security and trust in your housing search.
+Transparent Pricing: No hidden fees or surprises. We offer transparent pricing for listings and charge no service fees for students.
+Flexible Subleasing: Heading out of town? Sublease your apartment to fellow students, cover your expenses, and provide affordable options to others.
+User-Friendly Platform: Our easy-to-use platform comes with advanced search tools, making your housing hunt a breeze.
+💭 Our Vision
+We envision a world where students are free from housing stress, able to concentrate on their studies, and effortlessly connect with a vibrant student community.
 
-### `npm start`
+🤝 Join the StudentStay Community
+Looking for short-term housing or interested in subleasing? Join StudentStay and explore a subleasing experience crafted just for students.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📞 Stay in the Loop
+Questions or need assistance? Our support team is always here to help! Contact us at info@joinstudentstay.com.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
