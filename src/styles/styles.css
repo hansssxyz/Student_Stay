@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    margin:0;
+    font-family: 'Josefin Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@layer components {
+    .btn {
+        @apply font-bold py-2 px-4 m-2 rounded;
+        font-family: 'Lato', sans-serif;
+        margin: 5px;
+
+    }
+    .sm {
+        /*@apply px-2;*/
+    }
+
+    .md {
+        /*@apply px-4;*/
+    }
+
+    .lg {
+        /*@apply px-8;*/
+    }
+
+    .xl {
+        /*@apply px-16;*/
+    }
+
+    /*button colors: default, primary, info, success, warning, danger, dark */
+    .blue {
+        /*@apply bg-gray-100 text-gray-800;*/
+        background: #100D9F;
+        border-radius: 35px;
+        border: 1px solid #100D9F;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+    .blue:hover {
+        /*@apply bg-gray-200 text-gray-800;*/
+        background: #5b58f1;
+        border-radius: 35px;
+        border: 1px solid #5b58f1;
+        padding:5px;
+        -webkit-text-fill-color: white;
+
+    }
+
+    .purple {
+        /*@apply text-sky-blue;*/
+        background: #7D7AFF;
+        border-radius: 35px;
+        border: 1px solid #7D7AFF;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+    .purple:hover {
+        /*@apply text-sky-blue;*/
+        background: #a3a1ff;
+        border-radius: 35px;
+        border: 1px solid #a3a1ff;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+
+    .secondary {
+        background: transparent;
+        border-radius: 35px;
+        border: 1px solid #7D7AFF;
+        padding:5px;
+        -webkit-text-fill-color: #7D7AFF;
+    }
+    .secondary:hover {
+        background: #7D7AFF;
+        border-radius: 35px;
+        border: 1px solid #7D7AFF;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+
+    .tertiary {
+        background: transparent;
+        border-radius: 35px;
+        border: 1px solid #B490FF;
+        padding:5px;
+        -webkit-text-fill-color: #B490FF;
+    }
+    .tertiary:hover {
+        background: #cfb7ff;
+        border-radius: 35px;
+        border: 1px solid #cfb7ff;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+
+    .violet {
+        background: #B490FF;
+        border-radius: 35px;
+        border: 1px solid #B490FF;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+    .violet:hover {
+        background: #cfb7ff;
+        border-radius: 35px;
+        border: 1px solid #cfb7ff;
+        padding:5px;
+        -webkit-text-fill-color: white;
+    }
+
+
+}
+
+#outer-outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    min-height: 50vh;
+}
+
+#outerContainer {
+    background: url(../assets/GradientRectangle.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 100vw;
+    min-height:50vh;
+    word-wrap: break-word;
+}
+
+#outerContainer2{
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 50px;
+    background: linear-gradient(187deg, #D6F3FF 0%, rgba(214, 243, 255, 0.00) 100%);
+    box-shadow: 0px 4px 5px 4px rgba(16, 13, 159, 0.10);
+    height: auto;
+    width: 140vh;
+    border-radius: 40px;
+    display: flex;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+#outerContainer3{
+    margin: auto;
+    margin-top: 70px;
+    border-radius: 50px;
+    background: linear-gradient(187deg, #D6F3FF 0%, rgba(214, 243, 255, 0.00) 100%);
+    box-shadow: 0px 4px 5px 4px rgba(16, 13, 159, 0.10);
+    height: auto;
+    width: auto;
+    border-radius: 40px;
+    display: flex;
+    padding: 40px;
+    margin-bottom: 30px;
+}
+
+
+.custom-border {
+    border: 1px solid #7D7AFF;
+}
+
+.input[type=number]{
+    border: 1px solid #7D7AFF;
+}
+
+.file-input {
+    display: none;
+}
+
+.custom-file-button {
+    display: inline-block;
+    padding: 4px 8px;
+    font-size: 16px;
+    background-color: #ffffff;
+    border: 1px solid #7D7AFF;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.custom-file-button:hover {
+    background-color: #7D7AFF;
+    color: #ffffff;
+}

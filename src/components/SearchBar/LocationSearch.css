@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+#searchContainer{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    border: none;
+    font-size: 18px;
+    text-align: left;
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: white;
+    width: 200px;
+    line-height: 30px;
+
+}
+
+input[type=search]{
+    width: 260px;
+    font-size: 18px;
+    font-family: 'Josefin Sans', sans-serif;
+    height: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+

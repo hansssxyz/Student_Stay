@@ -1,0 +1,51 @@
+README - Important info on Maps Javascript API
+
+How to use Places Autocomplete API library: 
+const {AutocompleteService} = google.maps.importLibrary("places"); // import library
+const autocomplete = new google.maps.places.AutocompleteService(); // initialize autocomplete instance
+// sample request
+var placeRequest = {
+    input: testInput.value, // required
+    types: ['locality', 'neighborhood'], // optional
+    componentRestrictions: {country: 'us'} // optional
+};
+autocomplete.getPlacePredictions(placeRequest) // send request
+// receive response (val is an AutocompleteResponse object)
+.then((val) => {
+    // do something
+});
+
+How to use Geocoding API library: 
+const {Geocoder} = google.maps.importLibrary("geocoding") // import library
+const geocoder = new google.maps.Geocoder(); // initialize geocoder instance
+// sample request
+var geocodeRequest = {
+    address: location.value // required; can include ptional parameters
+}   
+geocoder.geocode(geocodeRequest) // send request
+// receive reponse (val is a GeocoderResult object)
+.then ((val) => {
+    // do something
+});
+
+
+Structure of GeocoderResult object: 
+results[]: {
+ types[]: string,
+ formatted_address: string,
+ address_components[]: {
+   short_name: string,
+   long_name: string,
+   postcode_localities[]: string,
+   types[]: string
+ },
+ partial_match: boolean,
+ place_id: string,
+ postcode_localities[]: string,
+ geometry: {
+   location: LatLng, // .lat() and .lng() return coordinates from LatLng object
+   location_type: GeocoderLocationType
+   viewport: LatLngBounds,
+   bounds: LatLngBounds
+ }
+}

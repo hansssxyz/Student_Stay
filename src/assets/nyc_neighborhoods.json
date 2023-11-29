@@ -1,0 +1,362 @@
+[
+  {
+    "zip": 10001,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Chelsea and Clinton",
+    "population": 21102,
+    "density": 33959
+  },
+  {
+    "zip": 10002,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Lower East Side",
+    "population": 81410,
+    "density": 92573
+  },
+  {
+    "zip": 10004,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Lower Manhattan",
+    "population": 3089,
+    "density": 5519
+  },
+  {
+    "zip": 10010,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Gramercy Park and Murray Hill",
+    "population": 31834,
+    "density": 81487
+  },
+  {
+    "zip": 10012,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Greenwich Village and Soho",
+    "population": 24090,
+    "density": 74517
+  },
+  {
+    "zip": 10021,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Upper East Side",
+    "population": 43631,
+    "density": 112711
+  },
+  {
+    "zip": 10023,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Upper West Side",
+    "population": 60998,
+    "density": 124357
+  },
+  {
+    "zip": 10026,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Central Harlem",
+    "population": 34003,
+    "density": 102315
+  },
+  {
+    "zip": 10029,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "East Harlem",
+    "population": 76003,
+    "density": 92116
+  },
+  {
+    "zip": 10031,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Inwood and Washington Heights",
+    "population": 56438,
+    "density": 86722
+  },
+  {
+    "zip": 10069,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "West Side",
+    "population": 5199,
+    "density": 49908
+  },
+  {
+    "zip": 10282,
+    "borough": "Manhattan",
+    "post_office": "New York, NY",
+    "neighborhood": "Tribeca",
+    "population": 4783,
+    "density": 54674
+  },
+  {
+    "zip": 10301,
+    "borough": "Staten Island",
+    "post_office": "Staten Island, NY",
+    "neighborhood": "Stapleton and St. George",
+    "population": 39706,
+    "density": 10852
+  },
+  {
+    "zip": 10302,
+    "borough": "Staten Island",
+    "post_office": "Staten Island, NY",
+    "neighborhood": "Port Richmond",
+    "population": 19088,
+    "density": 15982
+  },
+  {
+    "zip": 10306,
+    "borough": "Staten Island",
+    "post_office": "Staten Island, NY",
+    "neighborhood": "South Shore",
+    "population": 55909,
+    "density": 7481
+  },
+  {
+    "zip": 10314,
+    "borough": "Staten Island",
+    "post_office": "Staten Island, NY",
+    "neighborhood": "Mid-Island",
+    "population": 85510,
+    "density": 6235
+  },
+  {
+    "zip": 10451,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "High Bridge and Morrisania",
+    "population": 45713,
+    "density": 45043
+  },
+  {
+    "zip": 10453,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Central Bronx",
+    "population": 78309,
+    "density": 85491
+  },
+  {
+    "zip": 10454,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Hunts Point and Mott Haven",
+    "population": 37337,
+    "density": 35820
+  },
+  {
+    "zip": 10458,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Bronx Park and Fordham",
+    "population": 79492,
+    "density": 78784
+  },
+  {
+    "zip": 10461,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Southeast Bronx",
+    "population": 50502,
+    "density": 21045
+  },
+  {
+    "zip": 10463,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Kingsbridge and Riverdale",
+    "population": 67970,
+    "density": 47002
+  },
+  {
+    "zip": 10466,
+    "borough": "Bronx",
+    "post_office": "Bronx, NY",
+    "neighborhood": "Northeast Bronx",
+    "population": 67813,
+    "density": 33601
+  },
+  {
+    "zip": 11004,
+    "borough": "Queens",
+    "post_office": "Glen Oaks, NY",
+    "neighborhood": "Southeast Queens",
+    "population": 14016,
+    "density": 14752
+  },
+  {
+    "zip": 11101,
+    "borough": "Queens",
+    "post_office": "Long Island City, NY",
+    "neighborhood": "Northwest Queens",
+    "population": 25484,
+    "density": 9744
+  },
+  {
+    "zip": 11109,
+    "borough": "Queens",
+    "post_office": "Long Island City, NY",
+    "neighborhood": "Long Island City",
+    "population": 3523,
+    "density": 87802
+  },
+  {
+    "zip": 11201,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Northwest Brooklyn",
+    "population": 51128,
+    "density": 35981
+  },
+  {
+    "zip": 11203,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Flatbush",
+    "population": 76174,
+    "density": 35502
+  },
+  {
+    "zip": 11204,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Borough Park",
+    "population": 78134,
+    "density": 49173
+  },
+  {
+    "zip": 11206,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Bushwick and Williamsburg",
+    "population": 81677,
+    "density": 56939
+  },
+  {
+    "zip": 11207,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "East New York and New Lots",
+    "population": 93386,
+    "density": 34965
+  },
+  {
+    "zip": 11209,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Southwest Brooklyn",
+    "population": 68853,
+    "density": 31845
+  },
+  {
+    "zip": 11211,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Greenpoint",
+    "population": 90117,
+    "density": 39209
+  },
+  {
+    "zip": 11212,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Central Brooklyn",
+    "population": 84500,
+    "density": 54944
+  },
+  {
+    "zip": 11220,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Sunset Park",
+    "population": 99598,
+    "density": 55603
+  },
+  {
+    "zip": 11223,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Southern Brooklyn",
+    "population": 78731,
+    "density": 37956
+  },
+  {
+    "zip": 11234,
+    "borough": "Brooklyn",
+    "post_office": "Brooklyn, NY",
+    "neighborhood": "Canarsie and Flatlands",
+    "population": 87757,
+    "density": 11627
+  },
+  {
+    "zip": 11354,
+    "borough": "Queens",
+    "post_office": "Flushing, NY",
+    "neighborhood": "North Queens",
+    "population": 54878,
+    "density": 25324
+  },
+  {
+    "zip": 11361,
+    "borough": "Queens",
+    "post_office": "Bayside, NY",
+    "neighborhood": "Northeast Queens",
+    "population": 28606,
+    "density": 16269
+  },
+  {
+    "zip": 11365,
+    "borough": "Queens",
+    "post_office": "Fresh Meadows, NY",
+    "neighborhood": "Central Queens",
+    "population": 42252,
+    "density": 16923
+  },
+  {
+    "zip": 11368,
+    "borough": "Queens",
+    "post_office": "Corona, NY",
+    "neighborhood": "West Queens",
+    "population": 109931,
+    "density": 41768
+  },
+  {
+    "zip": 11374,
+    "borough": "Queens",
+    "post_office": "Rego Park, NY",
+    "neighborhood": "West Central Queens",
+    "population": 43600,
+    "density": 46664
+  },
+  {
+    "zip": 11412,
+    "borough": "Queens",
+    "post_office": "Saint Albans, NY",
+    "neighborhood": "Jamaica",
+    "population": 34882,
+    "density": 21186
+  },
+  {
+    "zip": 11414,
+    "borough": "Queens",
+    "post_office": "Howard Beach, NY",
+    "neighborhood": "Southwest Queens",
+    "population": 26148,
+    "density": 11370
+  },
+  {
+    "zip": 11691,
+    "borough": "Queens",
+    "post_office": "Far Rockaway, NY",
+    "neighborhood": "Rockaways",
+    "population": 60035,
+    "density": 21185
+  }
+]
